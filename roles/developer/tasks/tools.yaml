@@ -38,5 +38,5 @@
 - name: "install docker"
   homebrew: name=docker state=present
 
-- name: "install dvm"
-  homebrew: name=dvm state=present
+- name: "install boot2docker"
+  homebrew: name=boot2docker state=present
